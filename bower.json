@@ -1,11 +1,14 @@
 {
-  "name": "select-skin",
-  "version": "1.0.6",
-  "authors": [
-    "cbier90@gmail.com"
-  ],
-  "description": "jQuery select element skinning",
-  "main": "jquery.select_skin.js",
-  "license": "GPL",
-  "homepage": "http://www.verot.net/jquery_select_skin.htm"
+	"name": "select-skin",
+	"version": "1.0.6",
+	"authors": [
+		"cbier90@gmail.com"
+	],
+	"dependencies": {
+		"jquery": "1.2"
+	},
+	"description": "jQuery select element skinning",
+	"main": "jquery.select_skin.js",
+	"license": "GPL",
+	"homepage": "http://www.verot.net/jquery_select_skin.htm"
 }
